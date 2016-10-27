@@ -1,0 +1,20 @@
+bin
+gen
+/lint.xml
+/project.properties
+.DS_Store
+.classpath
+.settings/
+/*/build/
+build
+/*/build
+
+# Local configuration file (sdk path, etc)
+local.properties
+ 
+# Gradle generated files
+.gradle
+
+.idea
+*.iml
+.idea/workspace.xml
